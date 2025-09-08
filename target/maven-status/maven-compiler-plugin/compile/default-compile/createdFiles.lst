@@ -1,0 +1,6 @@
+com\lordbao\data\UserIO.class
+com\lordbao\business\User.class
+com\mycompany\ch09_ex1\resources\JakartaEE10Resource.class
+com\lordbao\download\DownloadServlet.class
+com\mycompany\ch09_ex1\JakartaRestConfiguration.class
+com\lordbao\util\CookieUtil.class
